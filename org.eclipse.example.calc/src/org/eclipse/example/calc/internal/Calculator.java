@@ -20,7 +20,11 @@ import org.eclipse.example.calc.internal.operations.Multiply;
 import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Power;
 import org.eclipse.example.calc.internal.operations.Square;
-
+/**
+ * New comment
+ * @author vizan
+ *
+ */
 public class Calculator {
 
 	private TextProvider textProvider;
